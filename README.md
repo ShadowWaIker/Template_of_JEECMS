@@ -4,7 +4,7 @@
 > 
 > **template-syfz.zip** 是一个中学站点模板。
 > 
-> 以上模板基于JEECMS V9.3（http://bbs.jeecms.com/res_base/jeecms_com_bbs/upload/201803/jeecmsv9.3-ROOT.zip）开发。
+> 以上模板基于JEECMS V9.3（ http://bbs.jeecms.com/res_base/jeecms_com_bbs/upload/201803/jeecmsv9.3-ROOT.zip ）开发。
 
 # 版本号命名规则 #
 
